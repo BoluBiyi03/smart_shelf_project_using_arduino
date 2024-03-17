@@ -1,4 +1,4 @@
-# Smart Shelf Using Arduino and GSM Module 
+# InternetOfThings - Smart Shelf Using Arduino and GSM Module 
 ## Date 
 8th March,2024
 ## By
