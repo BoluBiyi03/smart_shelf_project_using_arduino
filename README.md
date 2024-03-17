@@ -1,4 +1,4 @@
-# smart_shelf_project_using_arduino
+# Smart Shelf Using Arduino and GSM Module 
 ## Date 
 8th March,2024
 ## By
